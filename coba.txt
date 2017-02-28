@@ -1,0 +1,4 @@
+coba
+
+ini coba.txt
+ 
